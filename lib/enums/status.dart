@@ -1,4 +1,5 @@
 enum StatusEncomenda {
+  NaoEncontrado,
   Postado,
   Encaminhado,
   FiscalizacaoAduaneira,
